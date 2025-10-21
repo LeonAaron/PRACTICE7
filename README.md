@@ -1,2 +1,3 @@
 # PRACTICE7A
-D
+B
+C
